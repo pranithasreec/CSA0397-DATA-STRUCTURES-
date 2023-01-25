@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a=5;
+int b=15;
+int c;
+clrscr();
+printf("sum of two numbers= ");
+c=a+b;
+printf("%d",c);
+getch();
+return 0;
+}
