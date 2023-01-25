@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int n,i;
+clrscr();
+printf("enter the number= ",n);
+scanf("%d",&n);
+printf("first %d natural numbers are:\n",n);
+for(i=1;i<=n;i++)
+{
+printf("%d",i);
+}
+getch();
+return 0;
+}
