@@ -32,5 +32,4 @@ printf("not found!%d isn't present in the list\n",search);
 getch();
 return 0;
 }
-[
 
